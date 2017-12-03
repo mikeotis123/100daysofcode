@@ -97,20 +97,49 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+form{
+margin-left: auto;
+margin-right: auto;   
+ width: 50%;
+}
+
+input{
+    display: block;
+    width: 400px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.radio{
+width: 10px;
+}
+button {
+    width:400px;
+    height: 60px;
+    border-radius: 10px;
+    background-color:#1c94e0;
+}
+
+h1 {
+    width: 50%;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+a {
+    color:#1c94e0;
+}
+
+button{
+    color:white;
+}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+nav {
+    background-color:#52B3DA;
+    height:45px;
+}
 
 
 /* ==========================================================================
